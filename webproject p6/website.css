@@ -1,0 +1,113 @@
+#child1{
+    text-align: center;
+   
+    color:#a46c3d ;
+    padding-top: 200px;
+    font-size:50px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#mom{
+    min-width: 200px;
+    min-height: 600px;
+   text-align: center;
+    background-image: url("../webproject p6/beachshowcase.jpg");
+background-size:100%;
+background-repeat: no-repeat;
+background-position: center;
+}
+#child2{
+    color:#a46c3d;
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button{
+    color: #a46c3d;
+border:1px solid #a46c3d;
+    border-radius: 4px;
+}
+button:hover{
+    background-color: #a46c3d;
+    color: white;
+}
+#parent1{
+    border: 1px solid #a46c3d;
+    background-color:  #a46c3d;
+    height: 150px;
+    line-height: 40px;
+}
+#p1{
+ text-align: center;
+ color: white;
+font-size: large;
+font-family: Arial, Helvetica, sans-serif;
+/* word-spacing: 4px; */
+}
+#parent2{
+    border: 1px solid white;
+    background-color:white;
+    height: 150px;
+    line-height: 40px;
+   
+
+}
+#p2{
+    text-align: center;
+ color:#a46c3d;
+font-size: large;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+#parent3{
+    border: 1px solid#a46c3d;
+    background-color:#a46c3d;
+    width:400px;
+    display: inline-block;
+    height: 250px;
+    line-height: 30px;
+  
+   
+
+}
+#p3{
+    text-align: left;
+    color: white;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#parent4{
+    border: 1px solid white;
+    background-color: white;
+    width:400px;
+    display: inline-block;
+    height: 250px;
+    line-height: 30px;
+  
+}
+#p4{
+    text-align: left;
+    color:#a46c3d;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#parent5{
+    border: 1px solid#a46c3d;
+    background-color:#a46c3d;
+    width:400px;
+    display: inline-block;
+    height: 250px;
+    line-height: 30px;
+
+}
+#p5{
+    text-align: left;
+    color: white;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
+
